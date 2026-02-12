@@ -1,0 +1,16 @@
+{
+  "name": "Debug pytest (city-vrp3)",
+  "type": "python",
+  "request": "launch",
+  "module": "pytest",
+  "args": [
+    "tests/test_tsp_api.py",
+    "-v"
+  ],
+  "console": "integratedTerminal",
+  "justMyCode": false,
+  "python": "/Users/rui/miniconda3/envs/city-vrp3/bin/python",
+  "configurations": [
+  
+  ]
+}
